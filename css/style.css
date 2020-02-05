@@ -1,0 +1,332 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9pj4ck69cddhu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 375px;
+    height: 211px;
+    flex-direction: column
+  }
+  .web19201image0row0 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 8px;
+    width: 321px;
+    height: 17px;
+    align-items: center
+  }
+  .style1,
+  .style3 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style1 {
+    font-size: .75em;
+    font-weight: 700;
+    height: 100%;
+    margin-left: 0
+  }
+  .style3 {
+    margin-left: 114px
+  }
+  .style3,
+  .style4,
+  .style5 {
+    font-size: .375em;
+    height: 8px
+  }
+  .style4 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif;
+    margin-left: 28px
+  }
+  .style5 {
+    margin-left: 26px
+  }
+  .style2,
+  .style5,
+  .style6,
+  .style7 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style6 {
+    font-size: .375em;
+    height: 8px;
+    margin-left: 24px
+  }
+  .style2,
+  .style7 {
+    margin-left: 19px
+  }
+  .style2 {
+    font-weight: 700;
+    font-size: .5625em;
+    margin-top: 74px;
+    height: 13px
+  }
+  .style7 {
+    font-size: .375em;
+    margin-top: 0;
+    height: 8px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9pj4ck69cddhu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 768px;
+    height: 432px;
+    flex-direction: column
+  }
+  .web19201image0row0 {
+    display: flex;
+    margin-left: 39px;
+    margin-top: 16px;
+    width: 657px;
+    height: 35px;
+    align-items: center
+  }
+  .style1,
+  .style3 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style1 {
+    font-size: 1.536em;
+    font-weight: 700;
+    height: 100%;
+    margin-left: 0
+  }
+  .style3 {
+    margin-left: 233px
+  }
+  .style3,
+  .style4,
+  .style5 {
+    font-size: .768em;
+    height: 16px
+  }
+  .style4 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif;
+    margin-left: 57px
+  }
+  .style5 {
+    margin-left: 53px
+  }
+  .style2,
+  .style5,
+  .style6,
+  .style7 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style6 {
+    font-size: .768em;
+    height: 16px;
+    margin-left: 49px
+  }
+  .style2,
+  .style7 {
+    margin-left: 39px
+  }
+  .style2 {
+    font-weight: 700;
+    font-size: 1.1520000000000001em;
+    margin-top: 152px;
+    height: 27px
+  }
+  .style7 {
+    font-size: .768em;
+    margin-top: 0;
+    height: 16px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9pj4ck69cddhu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 920px;
+    height: 518px;
+    flex-direction: column
+  }
+  .web19201image0row0 {
+    display: flex;
+    margin-left: 47px;
+    margin-top: 20px;
+    width: 788px;
+    height: 42px;
+    align-items: center
+  }
+  .style1,
+  .style3 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style1 {
+    font-size: 1.8399999999999999em;
+    font-weight: 700;
+    height: 100%;
+    margin-left: 0
+  }
+  .style3 {
+    margin-left: 280px
+  }
+  .style3,
+  .style4,
+  .style5 {
+    font-size: .9199999999999999em;
+    height: 20px
+  }
+  .style4 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif;
+    margin-left: 69px
+  }
+  .style5 {
+    margin-left: 64px
+  }
+  .style2,
+  .style5,
+  .style6,
+  .style7 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style6 {
+    font-size: .9199999999999999em;
+    height: 20px;
+    margin-left: 59px
+  }
+  .style2,
+  .style7 {
+    margin-left: 47px
+  }
+  .style2 {
+    font-weight: 700;
+    font-size: 1.38em;
+    margin-top: 182px;
+    height: 32px
+  }
+  .style7 {
+    font-size: .9199999999999999em;
+    margin-top: 0;
+    height: 20px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-image: url(https://designresources.assets.yotako.io/9pj4ck69cddhu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1200px;
+    height: 675px;
+    flex-direction: column
+  }
+  .web19201image0row0 {
+    display: flex;
+    margin-left: 61px;
+    margin-top: 26px;
+    width: 1027px;
+    height: 54px;
+    align-items: center
+  }
+  .style1,
+  .style3 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style1 {
+    font-size: 2.4000000000000004em;
+    font-weight: 700;
+    height: 100%;
+    margin-left: 0
+  }
+  .style3 {
+    margin-left: 365px
+  }
+  .style3,
+  .style4,
+  .style5 {
+    font-size: 1.2000000000000002em;
+    height: 26px
+  }
+  .style4 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif;
+    margin-left: 90px
+  }
+  .style5 {
+    margin-left: 83px
+  }
+  .style2,
+  .style5,
+  .style6,
+  .style7 {
+    color: #fafafa;
+    font-family: 'Segoe UI',serif
+  }
+  .style6 {
+    font-size: 1.2000000000000002em;
+    height: 26px;
+    margin-left: 77px
+  }
+  .style2,
+  .style7 {
+    margin-left: 61px
+  }
+  .style2 {
+    font-weight: 700;
+    font-size: 1.8em;
+    margin-top: 237px;
+    height: 42px
+  }
+  .style7 {
+    font-size: 1.2000000000000002em;
+    margin-top: 0;
+    height: 26px
+  }
+}
